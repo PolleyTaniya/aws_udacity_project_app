@@ -1,6 +1,8 @@
 <font size="3"> We will be using <a href="http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html">this data</a> of 102 flower categories.
 Here you'll use torchvision to load the data (documentation). The data should be included alongside this notebook, otherwise you can <a href="https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz">Download it here</a>.
 </font>
+
+
 <i><b><font size="4">Data Description</i></b></font>
 
 <font size="3">The dataset is split into three parts, training, validation, and testing. For the training, you'll want to apply transformations such as random scaling, cropping, and flipping. This will help the network generalize leading to better performance. You'll also need to make sure the input data is resized to 224x224 pixels as required by the pre-trained networks.
