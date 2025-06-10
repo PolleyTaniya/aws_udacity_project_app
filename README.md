@@ -1,3 +1,5 @@
+# Image classifier using Pytorch
+![altimg](flower-8094368_1280.jpg)\
 <font size="3"> We will be using <a href="http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html">this data</a> of 102 flower categories.
 Here you'll use torchvision to load the data (documentation). The data should be included alongside this notebook, otherwise you can <a href="https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz">Download it here</a>.
 </font>
